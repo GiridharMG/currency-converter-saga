@@ -1,0 +1,5 @@
+export const sagaActions = {
+    FETCH_CURRENCY: "FETCH_CURRENCY",
+    CONVERT_CURRENCY: "CONVERT_CURRENCY"
+};
+  
